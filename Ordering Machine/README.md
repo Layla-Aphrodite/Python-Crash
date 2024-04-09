@@ -20,7 +20,7 @@ Here are the menu of each restaurant:
 Can add more in your burger:
 | Add-on | Price |
 |--------|-------|
-| Letuce |   1   |
+| Lettuce |   1   |
 | Bacon  |   2   |
 
 ### Lido:
